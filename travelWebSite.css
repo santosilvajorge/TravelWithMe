@@ -1,0 +1,24 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    
+}
+
+nav {
+    color: white;
+    background-color: rgb(40, 132, 252);
+}
+
+.nav-containers {
+
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+.nav-img-logo {
+    width: 8vh;
+    height: 8vh;
+}
