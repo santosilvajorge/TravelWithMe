@@ -19,6 +19,18 @@ nav {
 }
 
 .nav-img-logo {
-    width: 8vh;
-    height: 8vh;
+    width: 4vh;
+    height: 4vh;
+}
+
+.intro-logo {
+    text-align: center;
+}
+
+.welcome-text {
+    font-size: 0.91em;
+}
+
+.deal-img {
+    width: 100%;
 }
