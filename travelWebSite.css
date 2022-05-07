@@ -34,3 +34,17 @@ nav {
 .deal-img {
     width: 100%;
 }
+
+.carousel-item {
+    max-width: 60vh;
+    min-width: 10vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: auto;
+}
+
+footer {
+    text-align: center;
+}
